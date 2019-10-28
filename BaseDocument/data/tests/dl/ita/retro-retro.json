@@ -1,0 +1,19 @@
+{
+	"code": "I10",
+    "front": {
+		"texts": {
+			"person.last_name": "PETRELLI",
+			"person.first_name": "ANDREA",
+			"person.birth_date_place": "24/06/1976 MACERATA",
+			"person.address": "MOGLIANO (MC)\n145 XX SETTEMBRE",		
+			"person.number": "MC5056098M",				
+			"person.release_date": "23/06/2001",						
+			"person.valid_until_date": "23/06/2011"
+		}
+	},
+    "rear": {
+		"texts": {
+
+		}
+	}
+}

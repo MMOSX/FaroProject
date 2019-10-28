@@ -1,0 +1,73 @@
+{
+    "front": {
+        "tags": {
+            "texts": [
+                {
+                    "name": "person.last_name",
+                    "x": 0.33543,
+                    "y": 0.31815,
+                    "width": 0.33,
+                    "height": 0.05
+                },
+                {
+                    "name": "person.first_name",
+                    "x": 0.33146,
+                    "y": 0.39761,
+                    "width": 0.35,
+                    "height": 0.05
+                },
+                {
+                    "name": "person.birth_place_date",
+                    "x": 0.33058,
+                    "y": 0.49782,
+                    "width": 0.65,
+                    "height": 0.05
+                },
+                {
+                    "name": "person.citizenship",
+                    "x": 0.65864,
+                    "y": 0.60027,
+                    "width": 0.31,
+                    "height": 0.05
+                },
+                {
+                    "name": "person.sex",
+                    "x": 0.33258,
+                    "y": 0.60189,
+                    "width": 0.1,
+                    "height": 0.05
+                },
+                {
+                    "name": "document.issued_date",
+                    "x": 0.33156,
+                    "y": 0.67794,
+                    "width": 0.2,
+                    "height": 0.05
+                },
+                {
+                    "name": "document.elapse_date",
+                    "x": 0.65762,
+                    "y": 0.67633,
+                    "width": 0.3,
+                    "height": 0.05
+                }
+            ],
+            "images": [
+                {
+                    "name": "person.photo",
+                    "x": 0.023066,
+                    "y": 0.28742,
+                    "width": 0.29,
+                    "height": 0.57
+                }
+            ]
+        }
+    },
+    "rear": {
+        "ignore": true,
+        "tags": {
+            "texts": [],
+            "images": []
+        }
+    }
+}

@@ -1,0 +1,65 @@
+{
+    "front": {
+        "tags": {
+            "texts": [
+                {
+                    "name": "person.last_name",
+                    "x": 0.313,
+                    "y": 0.113,
+                    "width": 0.65,
+                    "height": 0.06
+                },
+                {
+                    "name": "person.first_name",
+                    "x": 0.313,
+                    "y": 0.183,
+                    "width": 0.65,
+                    "height": 0.06
+                },
+                {
+                    "name": "person.birth_date_place",
+                    "x": 0.313,
+                    "y": 0.253,
+                    "width": 0.65,
+                    "height": 0.06
+                },
+                {
+                    "name": "document.release_date",
+                    "x": 0.327,
+                    "y": 0.318,
+                    "width": 0.18,
+                    "height": 0.065
+                },
+                {
+                    "name": "document.valid_until_date",
+                    "x": 0.327,
+                    "y": 0.383,
+                    "width": 0.18,
+                    "height": 0.07
+                },
+                {
+                    "name": "document.number",
+                    "x": 0.317,
+                    "y": 0.455,
+                    "width": 0.65,
+                    "height": 0.07
+                }
+            ],
+            "images": [
+                {
+                    "name": "person.photo",
+                    "x": 0.03,
+                    "y": 0.29,
+                    "width": 0.23,
+                    "height": 0.39
+                }
+            ]
+        }
+    },
+    "rear": {
+        "tags": {
+            "texts": [],
+            "images": []
+        }
+    }
+}

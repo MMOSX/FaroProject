@@ -1,0 +1,74 @@
+{
+    "front": {
+        "masks": [],
+        "tags": {
+            "texts": [],
+            "images": []
+        }
+    },
+    "rear": {
+        "masks": [],
+        "tags": {
+            "texts": [
+                {
+                    "name": "person.last_name",
+                    "x": 0.145,
+                    "y": 0.078,
+                    "width": 0.310,
+                    "height": 0.050
+                },
+                {
+                    "name": "person.first_name",
+                    "x": 0.115,
+                    "y": 0.130,
+                    "width": 0.340,
+                    "height": 0.050
+                },
+                {
+                    "name": "person.birth_date",
+                    "x": 0.115,
+                    "y": 0.178,
+                    "width": 0.340,
+                    "height": 0.050
+                },
+                {
+                    "name": "person.birth_place",
+                    "x": 0.072,
+                    "y": 0.274,
+                    "width": 0.380,
+                    "height": 0.050
+                },
+                {
+                    "name": "person.citizenship",
+                    "x": 0.166,
+                    "y": 0.322,
+                    "width": 0.290,
+                    "height": 0.050
+                },
+                {
+                    "name": "person.city",
+                    "x": 0.146,
+                    "y": 0.372,
+                    "width": 0.310,
+                    "height": 0.050
+                },
+                {
+                    "name": "person.address",
+                    "x": 0.088,
+                    "y": 0.420,
+                    "width": 0.365,
+                    "height": 0.050
+                }
+            ],
+            "images": [
+                {
+                    "name": "person.photo",
+                    "x": 0.605,
+                    "y": 0.084,
+                    "width": 0.300,
+                    "height": 0.450
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,18 @@
+{
+	"code": "CIE",
+    "front": {
+		"texts": {
+
+		}
+	},
+    "rear": {
+		"texts": {
+			"person.last_name": "PETRELLI",
+			"person.first_name": "ANDREA",
+			"person.birth_date": "24-06-1976",
+			"person.address": "ALCIDE DE GASPERI 110",		
+			"person.citizenship": "ITALIANA",					
+			"person.birth_place": "MACERATA (MC)"
+		}
+	}
+}

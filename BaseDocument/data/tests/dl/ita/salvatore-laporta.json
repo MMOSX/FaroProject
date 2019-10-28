@@ -1,0 +1,18 @@
+{
+	"code": "I11",
+    "front": {
+		"texts": {
+			"person.last_name": "LA PORTA",
+			"person.first_name": "SALVATORE",
+			"person.birth_date_place": "14/01/78",
+			"person.number": "MC5182656S",				
+			"person.release_date": "10/03/2016",						
+			"person.valid_until_date": "14/01/2027"
+		}
+	},
+    "rear": {
+		"texts": {
+
+		}
+	}
+}

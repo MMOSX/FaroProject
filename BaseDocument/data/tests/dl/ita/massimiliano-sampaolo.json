@@ -1,0 +1,18 @@
+{
+	"code": "I11",
+    "front": {
+		"texts": {
+			"person.last_name": "SAMPAOLO",
+			"person.first_name": "MASSIMILIANO",
+			"person.birth_date_place": "11/06/95 TOLENTINO",
+			"person.number": "MC5182656S",				
+			"person.release_date": "30/09/2013",						
+			"person.valid_until_date": "11/06/2024"
+		}
+	},
+    "rear": {
+		"texts": {
+
+		}
+	}
+}
