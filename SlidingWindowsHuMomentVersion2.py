@@ -110,8 +110,6 @@ for match_name in all_match_score.keys():
     reference_name = key_list[3]
     test_x = int(key_list[5])
     test_y = int(key_list[7])
-    #TODO prendere gli indici dei minimi e utilizzare solo i contorni che sono minimi nel match, la funzione è stata definita sopra
-    # TODO controlla che l'array che passi non sia vuoto con if shape0 != 0 and shape1 != 0:
     test_name_contours = test_data[test_name]
     reference_contours = reference_data[reference_name]
     reference_image = cv2.imread(references_path + reference_name, cv2.IMREAD_GRAYSCALE)
