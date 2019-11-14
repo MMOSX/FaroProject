@@ -31,7 +31,7 @@ flann = cv2.FlannBasedMatcher(index_params,search_params)
 matches = flann.knnMatch(reference_descriptors, test_descriptors, k=2)
 
 # Need to draw only good matches, so create a mask
-matchesMask = [[0,0] for i in range(len(matches))]
+matchesMask = [[0, 0] for i in range(len(matches))]
 # ratio test as per Lowe's paper
 good_matches = []
 for i, (m, n) in enumerate(matches):
